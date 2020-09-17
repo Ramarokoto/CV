@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+    <head>
+         <meta charset="uft-8">
+         <title>le dj est bon </title>
+         <link href="style.css"  rel="stylesheet">
+    </head>
+
+
+    <body>
+        <h1>Marketing Web et Digital - Krishna RAMAROKOTO</h1>
+
+        <img src="https://comarketing-news.fr/wp-content/uploads/futur-usages-digital.jpg"
+        alt="Mon image digital">
+
+        <h2>Competences</h2> 
+        <ul>
+            <li>Montage videos</li>
+            <li>Production Musical</li>
+            <li>Reseau Sociaux</li>
+        </ul>
+
+        <h2>FORMATION</h2>  
+        <ul>
+            <li>Bachelor Marketing web et digitial</li>
+            <li>Armee de l'air</li>
+            <li>Bac Pro Transport Logistique</li>
+        </ul>
+
+        <h2>Centres de loisirs</h2>
+        
+        <a href="hobbies.html" title="mes hobbies">Mes hobbies</a>
+
+        <a href="https://youtu.be/VfhFW18uhBE" title="mes hobbies">Mon YT</a>
+        
+
+
+    </body>
+
+</html>
+
